@@ -29,3 +29,5 @@
 
 <img width="924" height="371" alt="Screenshot 2026-02-11 164758" src="https://github.com/user-attachments/assets/59c4a168-49fb-46c5-af77-b89622b6d698" />
 
+> Flag found: THM{WGET_WEVSERVER}
+
