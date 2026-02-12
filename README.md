@@ -42,8 +42,3 @@ The goal is to learn cybersecurity to **protect and secure systems**, never to h
 
 ---
 
-## 🔥 Final Note
-
-> This repository represents my discipline, consistency, and long-term commitment to cybersecurity.
-
-The journey has just begun.
