@@ -82,5 +82,7 @@ Step-3: Inside the apache2 folder we have permission to read “access.log.1” 
 > IP: 10.9.232.111
 > File tried to access: catsanddogs.jpg
 
+<br><br>
+
 ---
 ---
